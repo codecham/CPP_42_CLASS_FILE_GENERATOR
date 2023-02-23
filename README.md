@@ -1,5 +1,5 @@
 # CPP_42_CLASS_FILE_GENERATOR
-A simple class Orthodox Canonical Form file generator 
+A simple class Orthodox Canonical Form file generator for the 42 CPP piscine
 
 USAGE: gen_hpp *CLASS_NAME*
 
