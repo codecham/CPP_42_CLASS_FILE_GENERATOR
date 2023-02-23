@@ -3,6 +3,8 @@ A simple class Orthodox Canonical Form file generator for the 42 CPP piscine
 
 USAGE: gen_hpp *CLASS_NAME*
 
+Exemple: $> gen_hpp Character (create the file Character.hpp and fill it)
+
 To be able to run it everywhere you can:
 
 Create a folder where you want.
